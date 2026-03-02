@@ -1,0 +1,6 @@
+{
+    "dpo_dataset_repo_id": "danielebelfiore/MNLP_M3_dpo_dataset",
+    "mcqa_dataset_repo_id": "trip1ech/MNLP_M3_mcqa_dataset",
+    "quantized_mcqa_dataset_repo_id": "b6Amine/MNLP_M3_quantized_dataset",
+    "rag_mcqa_dataset_repo_id": "nililba/MNLP_M3_rag_dataset"
+}
